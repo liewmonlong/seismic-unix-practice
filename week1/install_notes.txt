@@ -1,0 +1,1 @@
+XDRFLAG turned off, #define _GNU_SOURCE added to sunan.c, and -D_GNU_SOURCE added to OPTC.

@@ -1,0 +1,3 @@
+Bandpass: a narrower band gives smoother, lower-resolution events with ringing.
+tpow=2 boosts deep events, but the gain is the same for every trace.
+AGC evens out the amplitudes in each window, which is good for structure but removes true amplitudes.
